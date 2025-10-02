@@ -16,8 +16,6 @@ Hourly temperature chart for the next 24 hours
 
 Smooth and responsive UI with animations (Framer Motion)
 
-Screenshots
-
 Tech Stack
 
 React – UI library for building components
